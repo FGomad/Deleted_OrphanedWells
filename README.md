@@ -44,7 +44,7 @@ This project uses real environmental data from the **U.S. Environmental Protecti
 - Interactive geographic map
 
 ## Tools & Libraries
-- Python 3.x
+- Python 
 - pandas
 - plotly (Express & Graph Objects)
 - matplotlib
