@@ -86,17 +86,16 @@ Saved Cleaned Dataset
 
 The cleaned dataset was exported as cleaned_orphaned_wells.csv and used for all analysis and visualizations.
 
-## 📊 Results
+# Results
 
 ### 1. Well Status Distribution
-![Well Status Distribution](Orphaned Wells Project/Distribution of Well Status.jpg)
-
+![Well Status Distribution](https://github.com/FGomad/OrphanedWells_USA/blob/main/Orphaned%20Wells%20Project/Distribution%20of%20Well%20Status.jpg)
 - Most wells are categorized as **Orphaned**, indicating no responsible operator.
 - Only a small fraction are **Plugged**.
 ---
 
 ### 2. Geographic Distribution Map
-![Well Status Distribution](Orphaned Wells Project/GEOSPATIAL DISTRIBUTION OF THE ORPHANED WELLS.jpg)
+![Well Status Distribution](https://github.com/FGomad/OrphanedWells_USA/blob/main/Orphaned%20Wells%20Project/GEOSPATIAL%20DISTRIBUTION%20OF%20THE%20ORPHANED%20WELLS.png)
 
 - Dense clusters appear in the Appalachian Basin and Texas.
 - Mapping helps identify high-priority remediation zones.
